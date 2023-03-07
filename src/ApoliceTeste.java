@@ -3,7 +3,7 @@ public class ApoliceTeste {
         Apolice apolice = new Apolice();
         apolice.setNomeSegurado("Mateus");
         apolice.setIdade(34);
-        apolice.setValorPremio(5000f);
+        apolice.setValorPremio(5000.0f);
 
         apolice.imprimir();
     }
